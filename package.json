@@ -1,0 +1,15 @@
+{
+  "name": "simple-linked-list",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Mike Dean",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "ava": "^3.15.0"
+  },
+  "scripts": {
+    "test": "ava"
+  }
+}
